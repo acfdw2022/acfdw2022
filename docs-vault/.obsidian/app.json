@@ -4,7 +4,7 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "./assets/ZIP vs 7-Zip for Network Dump HAR File",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

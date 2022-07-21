@@ -39,5 +39,6 @@
   "obsidian-plugin-toc",
   "update-time-on-edit",
   "obsidian-filename-heading-sync",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-custom-attachment-location"
 ]

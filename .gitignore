@@ -5,9 +5,11 @@
 # Obsidian Plugin Data (Actually Important)
 # docs-src/.obsidian/* # <--- #broken Line removes all plugins, even with the explicit allow for data.json below.
 docs-src/.obsidian/*.*
-docs-src/.obsidian/plugins/*/*.*
+docs-src/.obsidian/plugins/**/*.json
+!docs-src/.obsidian/plugins/**/manifest.json
+
 #docs-src/.obsidian/plugins/*/manifest.*
-!docs-src/.obsidian/plugins/**/data.json
+# !docs-src/.obsidian/plugins/**/data.json
 # /data.json
 
 
@@ -25,7 +27,6 @@ docs-src/.obsidian/workspace*
 # ```
 # #WARNING Obsidian CSS is _always_ Title Case (starts with capital letter)
 docs-src/.obsidian/themes/*.css
-# !docs-src/.obsidian/themes/Obsidian.css # may not exist?
 
 ###
 # Common

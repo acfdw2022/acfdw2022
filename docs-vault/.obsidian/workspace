@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conference-notes/2022-07-21 - Day 4, Session 3 Dave Ferguson - You handle the CRUD, let them handle the rest.md",
+            "file": "advice-rx/ZIP vs 7-Zip for Network Dump HAR File.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conference-notes/2022-07-21 - Day 4, Session 3 Dave Ferguson - You handle the CRUD, let them handle the rest.md",
+                "file": "advice-rx/ZIP vs 7-Zip for Network Dump HAR File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conference-notes/2022-07-21 - Day 4, Session 3 Dave Ferguson - You handle the CRUD, let them handle the rest.md",
+                "file": "advice-rx/ZIP vs 7-Zip for Network Dump HAR File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conference-notes/2022-07-21 - Day 4, Session 3 Dave Ferguson - You handle the CRUD, let them handle the rest.md"
+                "file": "advice-rx/ZIP vs 7-Zip for Network Dump HAR File.md"
               }
             }
           },
@@ -136,15 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64d84473debbca5e",
+  "active": "7e196621544d5f6c",
   "lastOpenFiles": [
-    "conference-notes/2022-07-21 - Day 4 README.md",
-    "conference-notes/2022-07-21 - Day 4, Session 1 Aditya Nema - Using ColdFusion to build Internal Apps.md",
-    "conference-notes/2022-07-21 - Day 4, Session 2 Nolan Erck - CFML Design Patterns and Uses.md",
+    "advice-rx/index.md",
+    "advice-rx/ZIP vs 7-Zip for Network Dump HAR File.md",
+    "zzz-drafts/Untitled.md",
+    "zzz-drafts/Screenshot Dumps.md",
+    "conference/notes/2022-07-21 - Day 4, Session 3 Dave Ferguson - You handle the CRUD, let them handle the rest.md",
+    "conference/notes/2022-07-21 - Day 4 README.md",
+    "conference/notes/2022-07-21 - Day 4, Session 1 Aditya Nema - Using ColdFusion to build Internal Apps.md",
+    "conference/notes/2022-07-21 - Day 4, Session 2 Nolan Erck - CFML Design Patterns and Uses.md",
     "conference-notes/2022-07-21 - Day 4, Session 3 Dave Ferguson - You handle the CRUD, let them handle the rest..md",
-    "conference-notes/2022-07-21 - Day 4, Session 3 Dave Ferguson - You handle the CRUD, let them handle the rest.md",
-    "README.md",
-    "best-practices/Git Best Practices Followed by This Project.md",
-    "Pasted image 20220721102540.png"
+    "README.md"
   ]
 }
