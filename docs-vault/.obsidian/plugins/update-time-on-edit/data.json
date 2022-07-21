@@ -1,0 +1,19 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm:ssxxx",
+  "readDateFormat": "yyyy-MM-dd'T'HH:mm:ssxxx",
+  "useDifferentReadFormat": false,
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 10,
+  "ignoreGlobalFolder": [
+    "templater",
+    "Excalidraw",
+    "Diagrams"
+  ],
+  "ignoreCreatedFolder": [
+    "templater",
+    "Excalidraw",
+    "Diagrams"
+  ]
+}

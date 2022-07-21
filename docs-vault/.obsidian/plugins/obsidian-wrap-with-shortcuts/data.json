@@ -1,0 +1,19 @@
+{
+  "wrapperTags": [
+    {
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    },
+    {
+      "name": "inlinecode",
+      "startTag": "`",
+      "endTag": "`"
+    },
+    {
+      "name": "html_bold",
+      "startTag": "<b>",
+      "endTag": "</b>"
+    }
+  ]
+}
