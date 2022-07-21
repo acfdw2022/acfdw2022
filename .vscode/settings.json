@@ -1,5 +1,8 @@
 {
     "conventionalCommits.scopes": [
-        "obsidian"
+        "obsidian",
+        "event-week",
+        "presentation-notes",
+        "vscode"
     ]
 }
