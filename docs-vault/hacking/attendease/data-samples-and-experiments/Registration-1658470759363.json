@@ -1,0 +1,198 @@
+{
+	"open": true,
+	"private_registration": false,
+	"message": "Stop please with leaking, or needlessly tying up bandwidth,especially on mobile, my First and Last Name, private Email, and private phone number, in FOUR PLACESBad Fellow Canadian, Bad. 💔",
+	"third_party_registration": false,
+	"third_party_url": null,
+	"multiple_limit": 1,
+	"has_registration_codes": true,
+	"registration_code_applied": false,
+	"registration_code_valid": false,
+	"buy_in_paid": "By clicking the \"Register\" button, I agree to the event payment, cancellation and substitution policies as well as the <a href=\"https://attendease.com/terms-of-service\" target=\"_new\">Terms of Use</a> and <a href=\"https://attendease.com/privacy\" target=\"_new\">Privacy policy</a>.",
+	"buy_in_free": "By clicking the \"Register\" button, I agree to the <a href=\"https://attendease.com/terms-of-service\" target=\"_new\">Terms of Use</a> and <a href=\"https://attendease.com/privacy\" target=\"_new\">Privacy policy</a>.",
+	"payment_policy": "An automated receipt with specific payment details will be provided to the registrant with their confirmation email.",
+	"cancellation_policy": "Cancellation and substitution requests must be made to the event manager. Processing and other fees may apply.",
+	"registration_confirmation_notice": "A confirmation email will be sent to the email address provided with information about your order.",
+	"free_pass_display_option": "show_pass_price_in_currency",
+	"skip_pass_selection_when_one_free_pass": true,
+	"allow_empty_required_fields": false,
+	"allow_managed_attendees_info_schedule": false,
+	"available_payment_methods": [
+		0
+	],
+	"payment_request_button": false,
+	"payable_to": null,
+	"payment_address": {
+		"address1": null,
+		"address2": null,
+		"addressable_id": "5d5ea82e-12c6-4514-884c-5383312c51bf",
+		"addressable_type": "Event",
+		"city": null,
+		"country": null,
+		"id": "0be0b5a6-a72b-46ca-a6a0-ad09ef720fd0",
+		"latitude": null,
+		"longitude": null,
+		"mongo_id": null,
+		"place_id": null,
+		"state": null,
+		"zip": null
+	},
+	"wire_info": null,
+	"currency": "USD",
+	"currency_human": "U.S. Dollars",
+	"pass_group": {
+		"id": "6bcf69fb-8075-493d-80c6-587b90ca8ac7",
+		"name": "Public",
+		"description": "This is the public group. Attendees without registration codes fall into this group."
+	},
+	"passes": [
+		{
+			"name": "Event Pass",
+			"description": null,
+			"price": 0,
+			"id": "46e09846-2c26-465c-870c-ed90a74026a9",
+			"available": null,
+			"days_in_effect": [
+				"2022-07-18",
+				"2022-07-19",
+				"2022-07-20",
+				"2022-07-21",
+				"2022-07-22"
+			],
+			"pass_type": "primary",
+			"pass_price_volume_discounts": [],
+			"remaining_capacity": null,
+			"waitlist_enabled": false
+		}
+	],
+	"form_rules": [],
+	"organization_name": "Adobe ColdFusion Summit",
+	"private_invite_data": null,
+	"attendee": {
+		"id": "753b8cad-b0a6-46bd-8b24-5485499648de",
+		"member_id": "04bae58c-c331-465c-a293-16fc247e929b",
+		"event_id": "5d5ea82e-12c6-4514-884c-5383312c51bf",
+		"name": "Robert T. Builder",
+		"first_name": "Robert",
+		"last_name": "Builder",
+		"email": "robert.t.builder@robertthebuilder.example",
+		"mobile_number": null,
+		"no_email": false,
+		"registered": true,
+		"in_progress": false,
+		"pass_name": "Event Pass",
+		"pass_group": "Public",
+		"registration_code": "",
+		"amount_paid": 0,
+		"amount_owing": 0,
+		"checked_in_at": "2022-07-18T11:08:52-04:00",
+		"transaction_currency": "USD",
+		"parent_attendee_id": "",
+		"registered_at": "2022-07-14T20:06:49Z",
+		"cancelled_at": null,
+		"additional_passes": 0,
+		"total_price": 0,
+		"pass": {
+			"id": "46e09846-2c26-465c-870c-ed90a74026a9",
+			"name": "Event Pass",
+			"pass_type": "primary",
+			"description": null,
+			"weight": 424242,
+			"available": true,
+			"used": true,
+			"days_in_effect": [
+				"2022-07-18",
+				"2022-07-19",
+				"2022-07-20",
+				"2022-07-21",
+				"2022-07-22"
+			],
+			"price": 0
+		},
+		"addon_passes": [],
+		"origin": "event_website",
+		"waitlisted": false,
+		"waitlisted_passes": [],
+		"waitlisted_pass": "",
+		"waitlist_position": 0,
+		"waitlist_total": 0,
+		"profile": {
+			"company": "",
+			"title": "",
+			"bio": "",
+			"profile_image_url": "https://www.gravatar.com/avatar/b0bb507f3bf8b2928b8373bd28abed0c?s=200&d=mm",
+			"company_logo_url": "",
+			"gravatar_url": "https://www.gravatar.com/avatar/b0bb507f3bf8b2928b8373bd28abed0c?s=200&d=mm"
+		}
+	},
+	"member": {
+		"id": "04bae58c-c331-465c-a293-16fc247e929b",
+		"first_name": "Robert",
+		"last_name": "Builder",
+		"email": "robert.t.builder@robertthebuilder.example",
+		"profile": {
+			"profile_image_url": "https://s3.ca-central-1.amazonaws.com/attendease-cdn/images/user-placeholder-image.png"
+		},
+		"access_token": "b6c51b93-74dd-4d06-9a0c-c1d141017ab6",
+		"event_ids": [
+			"5d5ea82e-12c6-4514-884c-5383312c51bf"
+		],
+		"waitlisted_event_ids": [],
+		"form_field_answers": [],
+		"partner_types": [],
+		"maintenance": false,
+		"email_verified": false,
+		"pii_consented": true,
+		"agora_uid": 2624649
+	},
+	"attendee_invoice": {
+		"sub_total": 0,
+		"tax_amount": 0,
+		"total": 0,
+		"currency": "USD",
+		"number": 757418,
+		"taxes": {},
+		"amount_owing": 0,
+		"amount_pending": 0,
+		"invoice_items": [
+			{
+				"created_at": "2022-07-14T20:06:49Z",
+				"description": "Event Pass",
+				"id": "95be31b7-560d-45e8-be74-50e3f3e7aa33",
+				"invoice_id": "bfdd7359-cc04-49e8-9838-22b2eb07f4a9",
+				"mongo_id": null,
+				"price": 0,
+				"quantity": 1,
+				"updated_at": "2022-07-14T20:06:49Z"
+			}
+		]
+	},
+	"answers": [
+		{
+			"11a9e97a-b85b-4dc0-825f-89b323e012a5": {
+				"f881f118-ee38-4735-a78f-824061fd01ed": "Robert",
+				"df687f26-1104-45ca-8ad6-eb14728790fa": "Builder",
+				"e7ce229b-1da8-4c41-959c-5389ce1b380f": "robert.t.builder@robertthebuilder.example"
+			},
+			"9c28447f-3214-4c75-a34a-db7590f1a255": {
+				"a7a98db2-442a-4a01-a2a4-3f2833b47915": "1112223333",
+				"fd7afa35-e437-4108-b999-777ef32fde59": "Building Crew",
+				"5aca9379-274a-4193-b2c2-5524c0723a00": "Canada",
+				"f5a974fb-eb77-4f8f-a909-cdb112a76613": "H0H 0H0",
+				"36661b46-8f23-4bea-bcdb-5ca218576557": "Websites, Apps, DevOps, Cloud Engineering, Site Reliability, Penetration Testing, Web Test Suites"
+			}
+		}
+	],
+	"attendee_pass_map": [
+		[
+			{
+				"id": "46e09846-2c26-465c-870c-ed90a74026a9",
+				"type": "primary",
+				"quantity": 1,
+				"purchased": true,
+				"waitlist_request": false
+			}
+		]
+	],
+	"maintenance": false
+}

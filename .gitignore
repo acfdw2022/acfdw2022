@@ -32,3 +32,9 @@ docs-src/.obsidian/themes/*.css
 # Common
 ###
 *.bak*
+
+# 2022-07-21 - I will use `git add path-to-file.har` to force add an ignored file if needed.
+# Greatly prefer avoiding accidental commits and having a dirty working tree.
+# #SmartDefaultsSaveLives b/c #StressKills
+docs-vault/hacking/adobe-connect/data-dumps/sample-1-2022-07-21-gregsweats/*
+docs-vault/.obsidian/workspace

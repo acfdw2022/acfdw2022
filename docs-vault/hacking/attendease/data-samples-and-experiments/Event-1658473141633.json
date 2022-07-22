@@ -1,0 +1,85 @@
+{
+	"id": "adobe-coldfusion-devweek-2022",
+	"event_id": "5d5ea82e-12c6-4514-884c-5383312c51bf",
+	"locale": "en",
+	"type": "online",
+	"name": "Adobe ColdFusion Developer Week 2022",
+	"description": "",
+	"dates": [
+		{
+			"id": "23c18cf7-6e67-45a0-901e-b29a9e70faca",
+			"date": "2022-07-18",
+			"start_time": "09:00",
+			"end_time": "17:00",
+			"date_formatted": "July 18, 2022",
+			"time_formatted": "09:00",
+			"end_time_formatted": "17:00"
+		},
+		{
+			"id": "97929a79-5912-451b-a779-6cf680584f6c",
+			"date": "2022-07-19",
+			"start_time": "09:00",
+			"end_time": "17:00",
+			"date_formatted": "July 19, 2022",
+			"time_formatted": "09:00",
+			"end_time_formatted": "17:00"
+		},
+		{
+			"id": "f68f5f8e-818f-4e4a-933a-af83c49e63ae",
+			"date": "2022-07-20",
+			"start_time": "09:00",
+			"end_time": "17:00",
+			"date_formatted": "July 20, 2022",
+			"time_formatted": "09:00",
+			"end_time_formatted": "17:00"
+		},
+		{
+			"id": "e6a263cb-4b41-436c-8528-3d69e9ef1cee",
+			"date": "2022-07-21",
+			"start_time": "09:00",
+			"end_time": "17:00",
+			"date_formatted": "July 21, 2022",
+			"time_formatted": "09:00",
+			"end_time_formatted": "17:00"
+		},
+		{
+			"id": "a7ab8f00-1582-4014-ac14-9eca5eff1947",
+			"date": "2022-07-22",
+			"start_time": "09:00",
+			"end_time": "17:00",
+			"date_formatted": "July 22, 2022",
+			"time_formatted": "09:00",
+			"end_time_formatted": "17:00"
+		}
+	],
+	"minute_increments": 15,
+	"primary_filter_id": null,
+	"show_account_on_quick_login": false,
+	"allow_managed_attendees_info_schedule": false,
+	"registration_enabled": true,
+	"registration_unavailable_message": "<h2>Event registration is not available at this time.</h2>",
+	"has_video": true,
+	"video_url": "https://my.adobeconnect.com/coldfusion/",
+	"broadcast_type": "single",
+	"provider_type": "other",
+	"enable_on_demand": false,
+	"access_to_broadcast": 2,
+	"time_zone": "Eastern Time (US & Canada)",
+	"time_zone_abbr": "EDT",
+	"time_zone_offset": "-04:00",
+	"time_zone_tzinfo": "America/New_York",
+	"credit_card_statement_description": "CONFERENCE* ADOBE COLD",
+	"credit_card_gateway_owner": "client",
+	"sponsor_levels": [
+		{
+			"id": "71f88fdf-316d-4e62-8b6f-5377946b3539",
+			"name": "Base level"
+		}
+	],
+	"exhibitor_levels": [
+		{
+			"id": "f341c17f-e6fd-4484-9cd2-7ab17966a3ac",
+			"name": "Base level"
+		}
+	]
+}
